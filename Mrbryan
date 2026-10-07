@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AQUARIUS $AQUA - NAGA PENJAGA BIRU GAHAR</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+body{margin:0;background:#020A14;color:#fff;text-align:center;font-family:Arial;padding:15px}
+.bg{position:fixed;inset:0;background:radial-gradient(ellipse at 50% 0%,#0B4F8C 0%,#0A2440 35%,#020A14 75%);z-index:-1}
+.naga-box{max-width:420px;margin:0 auto 12px;border-radius:28px;overflow:hidden;border:2px solid #00D4FF;box-shadow:0 0 50px #00D4FF88,0 20px 50px #000}
+.naga-box img{width:100%;display:block}
+.judul{font-family:'Bebas Neue';font-size:46px;color:#00D4FF;line-height:1;margin:10px 0;text-shadow:0 0 20px #00D4FF,0 0 40px #00D4FF88}
+.badge{display:inline-block;border:2px solid #00D4FF;border-radius:30px;padding:8px 18px;color:#7DE2FF;font-weight:900;background:rgba(0,212,255,.15);margin:10px 0;box-shadow:0 0 20px #00D4FF55}
+.box{border:2px solid rgba(0,212,255,.3);border-radius:20px;padding:18px;background:rgba(5,25,45,.9);max-width:400px;margin:15px auto;text-align:left;box-shadow:0 0 30px rgba(0,212,255,.15)}
+.btn{display:block;background:linear-gradient(90deg,#00D4FF,#0088CC);color:#020A14;padding:16px;border-radius:35px;text-decoration:none;font-weight:900;font-size:19px;margin:14px auto;max-width:380px;box-shadow:0 8px 25px #00D4FF88}
+.btn2{display:inline-block;background:#0A1F35;color:#fff;padding:11px 22px;border-radius:28px;text-decoration:none;font-weight:800;margin:5px;border:1px solid #00D4FF55;font-size:14px}
+.btn2:hover{background:#00D4FF;color:#020A14}
+.ca{border:2px dashed #00D4FF;border-radius:15px;padding:14px;max-width:400px;margin:15px auto;background:rgba(0,0,0,.6);font-size:12px;color:#7DE2FF;word-break:break-all}
+.vv{font-size:11px;color:#00D4FF;background:rgba(0,212,255,.1);border:1px solid #00D4FF33;border-radius:99px;padding:6px 12px;display:inline-block;margin:8px 0;font-weight:700}
+</style>
+</head>
+<body>
+<div class="bg"></div>
+
+<!-- NAGA BIRU GAHAR DI ATAS - INI YANG BARU BOS -->
+<div class="naga-box">
+<a href='https://postimg.cc/1gc1f6Q6' target='_blank'><img src='https://i.postimg.cc/1gc1f6Q6/IMG-20261004-WA1113.jpg' border='0' alt='IMG-20261004-WA1113'></a>
+
+<div class="judul">AQUARIUS<br>THE CHART GUARDIAN</div>
+<div class="badge">🐉 
+: MR BRYAN DRAGON 🐉</div>
+<div><span class="vv">💧 VV BOT 0.02 SOL TRIGGER | FULLY AUTOMATED | LP LOCKED</span></div>
+
+<div class="box">
+<div style="text-align:center;font-weight:900;margin-bottom:12px;color:#00D4FF"> VV BOT | DRAGON | FOR LIFE</div>
+💧 <b>WATER PROTOCOL AKTIF - 40% AUTO LP</b><br>
+🔥 GUARDIAN PROTOCOL AKTIF - 40% AUTO BURN<br>
+📈 Chart-focused community - 20% TREASURY<br><br>
+⚠️ <i>Not financial advice. Please DYOR before investing.!</i><br><br>
+<b>GUARD the chart. Breath burns supply = FUEL.<br>WATER IS LIFE - 0.02 SOL = VV BOT TRIGGER</b>
+</div>
+
+<a class="btn" href="https://pump.fun" target="_blank">BUY ON PUMP.FUN 🚀</a>
+
+<div>
+<a href="#" style="background:#00CCFF; color:black; padding:12px 20px; border-radius:30px; font-weight:bold; text-decoration:none; display:inline-block; margin:5px;">CHART</a>
+
+<a href="https://t.me/MrBrayan_AQUARIUS" style="background:#00CCFF; color:black; padding:12px 20px; border-radius:30px; font-weight:bold; text-decoration:none; display:inline-block; margin:5px;">TELEGRAM</a>
+
+<a href="https://x.com/MrBryanDRAGON" style="background:#00CCFF; color:black; padding:12px 20px; border-radius:30px; font-weight:bold; text-decoration:none; display:inline-block; margin:5px;">X @MrBryanDRAGON ✓</a>
+
+<div class="ca">
+<b style="color:#00D4FF">CA: Coming Soon - AQUARIUS $AQUA</b><br>Will be updated after launch<br><br>
+0% TAX | LP LOCKED | 1B SUPPLY | SOLANA<br>
+VV BOT: 0.02 SOL TRIGGER<br><br>
+t.me/MrBrayan_AQUARIUS<br>
+x.com/MrBryanDRAGON
+</div>
+
+<div style="opacity:.4;font-size:11px;margin-top:20px">
+2026 AQUARIUS PENJAGA - MR BRYAN & KAPTEN SAFRUN<br>#AQUARIUS $AQUA - THE SUPPLY THAT GIVES LIFE 💧🐉
+</div>
+
+</body>
+</html>
